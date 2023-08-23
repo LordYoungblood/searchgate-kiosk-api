@@ -1,0 +1,27 @@
+{
+  "name": "searchgate-kiosk",
+  "version": "1.0.0",
+  "description": "Search Gate Kiosk",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd api && npm install",
+    "start": "cd api && npm run start",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd api && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adpears94/searchgate-kiosk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adpears94/searchgate-kiosk/issues"
+  },
+  "homepage": "https://github.com/adpears94/searchgate-kiosk#readme",
+  "private": true,
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
